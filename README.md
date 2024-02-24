@@ -1,6 +1,6 @@
 # Vision Transformer in PyTorch
 
-This project is an implementation of the Vision Transformer (ViT) model in PyTorch, following the [original paper](https://pytorch.org/vision/main/models/vision_transformer.html) by Dosovitskiy et al. Vision Transformers are a novel approach to apply the powerful Transformer architecture to the domain of computer vision, achieving state-of-the-art results on various image recognition tasks.
+This project is an implementation of the Vision Transformer (ViT) model in PyTorch, following the [original paper](https://arxiv.org/abs/2010.11929) by Dosovitskiy et al. Vision Transformers are a novel approach to apply the powerful Transformer architecture to the domain of computer vision, achieving state-of-the-art results on various image recognition tasks.
 
 ## Model Overview
 
